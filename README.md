@@ -1,5 +1,7 @@
 # 📌 Desafio 100 Days of Code - Java
-
+![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=for-the-badge)
+> Bem-vindo ao meu diário de bordo do Desafio 100 Days of Code em Java! Aqui, documentarei minha jornada de aprendizado diário, compartilhando meu progresso e insights ao longo do caminho.
+> 
 ## 📄 Descrição
 Este é o meu registro pessoal do Desafio #100DaysOfCode, onde me comprometi a dedicar pelo menos 30 minutos diários ao estudo e prática de programação em Java ao longo de 100 dias. Este repositório serve como um diário de bordo para documentar meu progresso, recursos úteis e quaisquer insights ou aprendizados ao longo do caminho.
 
@@ -31,5 +33,17 @@ A pasta `Days` serve como o diretório principal, contendo subpastas corresponde
 - **Obs.* Dentro de cada subpasta `DayXX`, há um arquivo `README.md` que registra detalhes sobre as atividades realizadas naquele dia específico. Isso inclui resumos do aprendizado, desafios superados e quaisquer insights ou recursos úteis utilizados.*
 
 > Essa organização em camadas proporciona uma maneira eficaz de documentar e acompanhar o progresso diário, facilitando a revisão e a reflexão ao longo do desafio.
+
+## 💻 Tecnologias
+
+As seguintes ferramentas foram usadas neste projeto:
+
+### 🖥️ Ambientes de Desenvolvimento Integrado (IDEs):
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### 📚 Linguagem de Programação:
+![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
