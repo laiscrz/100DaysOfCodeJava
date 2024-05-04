@@ -1,4 +1,4 @@
-package Days.Day01.src.exercicios.main;
+package Project.Day01.src.exercicios.main;
 
 import java.util.Scanner;
 
