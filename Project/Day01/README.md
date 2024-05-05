@@ -10,21 +10,43 @@ Comecei revisando alguns conceitos básicos de programação e implementei algun
 
 A seguir, os conceitos revisados :
 
-| Conceito                              | Descrição                                                                                                            |
-|---------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Tipos de Variáveis em Java            | Variáveis de diferentes tipos, como int, double e String, são utilizadas para armazenar diferentes tipos de dados. |
-| Scanner em Java                       | A classe Scanner é usada para obter entradas do usuário a partir do console durante a execução do programa.          |
-| Operadores Aritméticos               | Operadores como adição (+), subtração (-), multiplicação (*) e divisão (/) são usados para realizar operações matemáticas. |
-| Operadores Lógicos                    | Operadores como && (AND) e duas barras verticais (OR) são usados para avaliar expressões lógicas e tomar decisões baseadas em condições. |
-| Estrutura de Controle If-Else         | A estrutura if-else é usada para executar um bloco de código se uma condição for verdadeira e outro se a condição for falsa. |
-| Método equals() para Comparação de Strings | O método equals() é usado para comparar o conteúdo de duas strings, retornando true se forem iguais e false caso contrário. |
+#### Scanner em Java
 
+| Scanner         | Descrição                                                        |
+|-----------------|------------------------------------------------------------------|
+| Scanner.nextInt() | Obtém um valor inteiro da entrada do usuário.                      |
+| Scanner.nextDouble() | Obtém um valor de ponto flutuante da entrada do usuário.            |
+| Scanner.nextLine()  | Obtém uma linha de texto da entrada do usuário.                     |
+
+#### Operadores Aritméticos
+
+| Operador | Descrição                              |
+|----------|----------------------------------------|
+| +        | Adição                                 |
+| -        | Subtração                              |
+| *        | Multiplicação                          |
+| /        | Divisão                                |
+| %        | Módulo (resto da divisão inteira)     |
+
+#### Operadores Lógicos
+
+| Operador | Descrição                                      |
+|----------|------------------------------------------------|
+| &&       | Operador lógico E (AND)                       |
+| \|\|     | Operador lógico OU (OR)                       |
+| !        | Operador lógico de negação (NOT)              |
+
+#### Método equals() para Comparação de Strings
+
+- O método `equals()` é usado para comparar o conteúdo de duas strings, retornando true se forem iguais e false caso contrário.
 
 > A revisão desses conceitos básicos é fundamental para estabelecer uma base sólida antes de avançar para tópicos mais avançados em Java. Compreender esses elementos essenciais permite construir programas mais complexos e resolver problemas de forma eficiente.
 
 ##
 
 ### ✍🏻 Programas Implementados
+
+Os programas implementados podem ser encontrados na pasta `src` do projeto.
 
 1. ***Media (Média)**
    - Implementei um programa para calcular a média de duas notas e determinar a situação do aluno (aprovado, exame, ou reprovado) com base na média.
