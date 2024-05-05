@@ -6,7 +6,7 @@ No segundo dia do desafio, foquei em aprender sobre estruturas condicionais em J
 
 Durante este dia, revisei os seguintes conceitos:
 
-### 🗒️ Estruturas Condicionais em Java
+### ✍🏻 Estruturas Condicionais em Java
 
 As estruturas condicionais, como `if`, `else if` e `else`, são utilizadas para tomar decisões com base em condições específicas. A sintaxe básica é:
 
@@ -19,7 +19,7 @@ if (condicao1) {
     // Bloco de código executado se nenhuma das condições anteriores for verdadeira
 }
 ```
-### 📅 Trabalhando com Datas em Java
+### ✍🏻 Trabalhando com Datas em Java
 #### 🏷️ LocalDate
 Em Java, podemos usar a classe `LocalDate` do pacote `java.time` para representar uma data específica. 
 Essa classe é útil quando precisamos lidar apenas com a data, sem se preocupar com a hora ou o fuso horário. 
@@ -43,7 +43,7 @@ int anoAtual = calendar.get(Calendar.YEAR);
 > Portanto, se precisarmos trabalhar apenas com a data, é mais recomendável usar LocalDate, pois oferece uma interface mais simples e direta para manipulação de datas. 
 Por outro lado, se precisarmos lidar com data e hora ou precisarmos de mais flexibilidade com fuso horário, podemos recorrer a Calendar.
 
-## ✍🏻 Exercícios Implementados
+### ✍🏻 Exercícios Implementados
 
 Durante o dia, implementei os seguintes exercícios para praticar estruturas condicionais e trabalhar com datas:
 - Os programas estão localizados na pasta `src/exercicios` do projeto.
