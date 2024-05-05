@@ -33,7 +33,8 @@ A organização do projeto segue uma abordagem simples e intuitiva, com foco na 
 ### 📂 Pasta `Project`
 A pasta `Project` serve como o diretório principal, contendo subpastas correspondentes a cada dia do desafio. Essa estrutura permite uma segmentação clara do progresso ao longo dos 100 dias.
 
-- **Obs.* Dentro de cada subpasta `DayXX`, há um arquivo `README.md` que registra detalhes sobre as atividades realizadas naquele dia específico. Isso inclui resumos do aprendizado, desafios superados e quaisquer insights ou recursos úteis utilizados.*
+- *Para visualizar o roteiro detalhado de cada dia do desafio, acesse o arquivo [Readme.md](./Project/README.md) dentro da pasta `Project`.*
+- *Obs. Dentro de cada subpasta `DayXX`, também há um arquivo `README.md` que registra detalhes sobre as atividades realizadas naquele dia específico. Isso inclui resumos do aprendizado, desafios superados e quaisquer insights ou recursos úteis utilizados.*
 
 > Essa organização em camadas proporciona uma maneira eficaz de documentar e acompanhar o progresso diário, facilitando a revisão e a reflexão ao longo do desafio.
 
