@@ -1,6 +1,9 @@
 # 📌 Desafio 100 Days of Code - Java
-![Status](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-green?style=for-the-badge)
+
+
 > Bem-vindo ao meu diário de bordo do Desafio 100 Days of Code em Java! Aqui, documentarei minha jornada de aprendizado diário, compartilhando meu progresso e insights ao longo do caminho.
+
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
 ## 📄 Descrição
 Este é o meu registro pessoal do Desafio #100DaysOfCode, onde me comprometi a dedicar pelo menos 30 minutos diários ao estudo e prática de programação em Java ao longo de 100 dias. Este repositório serve como um diário de bordo para documentar meu progresso, recursos úteis e quaisquer insights ou aprendizados ao longo do caminho.
@@ -41,9 +44,26 @@ As seguintes ferramentas foram usadas neste projeto:
 ### 🖥️ Ambientes de Desenvolvimento Integrado (IDEs):
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0A0A2A.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 ### 📚 Linguagem de Programação:
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## 🚀 Como Usar
 
+1. Clone o repositório usando o seguinte comando no terminal:
+   
+    ```bash
+    git clone https://github.com/laiscrz/100DaysOfCodeJava.git
+    ```
+2. Navegue até o diretório do projeto:
+   
+    ```bash
+    cd 100DaysOfCodeJava
+    ```
+3. Explore as pastas correspondentes a cada dia do desafio para ver detalhes sobre as atividades realizadas em cada dia.
+4. Fique à vontade para abrir o projeto em sua IDE preferida e experimentar o código por conta própria!
 
+##
+> Esse projeto tem o objetivo de não apenas fortalecer minhas habilidades em Java, mas também cultivar uma disciplina diária de aprendizado e prática.
