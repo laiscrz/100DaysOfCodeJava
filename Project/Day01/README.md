@@ -2,7 +2,7 @@
 
 Hoje marca o início do meu desafio 100 Dias de Código em Java. O objetivo principal para os primeiros sete dias é estabelecer uma rotina de estudos consistente. Vou dedicar pelo menos 30 minutos todos os dias para revisar conceitos básicos de programação e praticar Java.
 
-## ✏️ Revisão de Conceitos Básicos
+## 🧠 Revisão de Conceitos Básicos
 
 Comecei revisando alguns conceitos básicos de programação e implementei alguns programas simples em Java:
 
@@ -46,7 +46,8 @@ A seguir, os conceitos revisados :
 
 ### ✍🏻 Programas Implementados
 
-Os programas implementados podem ser encontrados na pasta `src` do projeto.
+Durante o dia, implementei os seguintes exercícios para praticar revisão básica desses conceitos:
+- Os programas estão localizados na pasta `src/exercicios` do projeto.
 
 1. ***Media (Média)**
    - Implementei um programa para calcular a média de duas notas e determinar a situação do aluno (aprovado, exame, ou reprovado) com base na média.
