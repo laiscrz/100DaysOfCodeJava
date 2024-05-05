@@ -7,8 +7,8 @@ Aqui está o roteiro detalhado do desafio:
 
 | Dia   | Tópico                                           | Descrição                                      | Pasta                     |
 |-------|--------------------------------------------------|-----------------------------------------------|---------------------------|
-|   1   | Estabelecendo a Rotina                           | Neste primeiro dia, concentramos em estabelecer uma rotina de estudos, revisando conceitos básicos de lógica de programação e Java. | [Day01](./Project/Day01)  |
-|   2   | Estrutura Condicionais & Trabalhando com Datas   | No segundo dia, exploramos estruturas condicionais em Java, como `if`, `else`, `else if`, e também aprendemos a trabalhar com datas utilizando classes como `LocalDate` e `DateTimeFormatter`. | [Day02](./Project/Day02)  |
+|   1   | Estabelecendo a Rotina                           | Neste primeiro dia, concentramos em estabelecer uma rotina de estudos, revisando conceitos básicos de lógica de programação e Java. | [Day01](./Day01)  |
+|   2   | Estrutura Condicionais & Trabalhando com Datas   | No segundo dia, exploramos estruturas condicionais em Java, como `if`, `else`, `else if`, e também aprendemos a trabalhar com datas utilizando classes como `LocalDate` e `DateTimeFormatter`. | [Day02](./Day02)  |
 
 ##
 
