@@ -8,7 +8,8 @@ Aqui está o roteiro detalhado do desafio:
 | Dia   | Tópico                                           | Descrição                                      | Pasta                     |
 |-------|--------------------------------------------------|-----------------------------------------------|---------------------------|
 |   1   | Estabelecendo a Rotina                           | Neste primeiro dia, concentramos em estabelecer uma rotina de estudos, revisando conceitos básicos de lógica de programação e Java. | [Day01](./Day01)  |
-|   2   | Estrutura Condicionais & Trabalhando com Datas   | No segundo dia, exploramos estruturas condicionais em Java, como `if`, `else`, `else if`, e também aprendemos a trabalhar com datas utilizando classes como `LocalDate` e `DateTimeFormatter`. | [Day02](./Day02)  |
+|   2   | Estrutura Condicionais & Trabalhando com Datas   | No segundo dia, exploramos estruturas condicionais em Java, como `if`, `else`, `else if`, e também aprendemos a trabalhar com datas utilizando classes como `LocalDate` e `Calendar`. | [Day02](./Day02)  |
+|   3   | Estrutura de Repetição com `while`               | No terceiro dia, vamos nos concentrar na estrutura de repetição `while` em Java, aprendendo a usá-la para realizar iterações enquanto uma condição é verdadeira. | [Day03](./Day03)  |
 
 ##
 
