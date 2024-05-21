@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.loopFor;
 
 public class SomaNum {
     public static void main(String[] args) {

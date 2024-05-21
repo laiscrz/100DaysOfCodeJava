@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.loopFor;
 
 public class ContagemNum {
     public static void main(String[] args) {
