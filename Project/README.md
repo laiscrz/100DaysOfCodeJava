@@ -11,6 +11,7 @@ Aqui está o roteiro detalhado do desafio:
 |   2   | Estrutura Condicionais & Trabalhando com Datas   | No segundo dia, exploramos estruturas condicionais em Java, como `if`, `else`, `else if`, e também aprendemos a trabalhar com datas utilizando classes como `LocalDate` e `Calendar`. | [Day02](./Day02)  |
 |   3   | Estrutura de Repetição com `while`               | No terceiro dia, vamos nos concentrar na estrutura de repetição `while` em Java, aprendendo a usá-la para realizar iterações enquanto uma condição é verdadeira. | [Day03](./Day03)  |
 |   4   | Estrutura de Repetição com `do-while`            | No quarto dia, exploramos a estrutura de repetição `do-while` em Java, aprendendo a utilizá-la para realizar iterações onde o bloco de código é executado pelo menos uma vez, e a condição de parada é verificada após cada execução. | [Day04](./Day04)  |
+|   5   | Estrutura de Repetição com `for` e Manipulações de String               | No quinto dia, vamos aprender a utilizar a estrutura de repetição `for` em Java, que é ideal para executar um bloco de código um número específico de vezes. Além disso, vamos explorar manipulações de strings, como dividir uma string, concatenar, substituir partes da string e outras operações comuns. | [Day05](./Day05)  |
 
 ##
 
