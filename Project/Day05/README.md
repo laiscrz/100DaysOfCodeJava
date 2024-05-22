@@ -47,3 +47,39 @@ Durante o dia, implementei os seguintes exercícios para praticar a estrutura de
    - Este programa calcula o fatorial de um número fornecido pelo usuário. O fatorial de um número é o produto de todos os números inteiros positivos menores ou iguais a ele. Ele utiliza um loop for para iterar de 1 até o número fornecido e calcular o fatorial.
 5. **Sequencia Fibonacci**
    - Este programa solicita ao usuário o número de termos da sequência de Fibonacci que deseja visualizar e imprime os primeiros termos dessa sequência. A sequência de Fibonacci é uma sequência de números onde cada número é a soma dos dois números anteriores. Ele utiliza um loop for para iterar até o número de termos especificado pelo usuário e calcular os termos da sequência.
+
+### ✍🏻 Manipulação de Strings em Java
+
+#### Concatenação de Strings
+- **Concatenação com `+`:**
+  - Permite concatenar duas ou mais strings usando o operador `+`.
+- **Concatenação com .concat():**
+  - Método da classe String para concatenar strings.
+    concatenação com .concat
+Comprimento de Strings
+    .length()
+Substring
+    .substring()
+Conversão de Caso
+    .toUpperCase()
+    .toLowerCase()
+Substituição de Caracteres
+    .replace()
+Divisão de Strings
+    .split()
+Remoção de Espaços
+    .trim()
+    .strip()
+    .stripLeading()
+    .stripTrailing() 
+Comparação de Strings
+    .equals()
+    .equalsIgnoreCase()
+    .compareTo()
+    .compareToIgnoreCase()
+Verificação de Substring
+    .contains()
+    .startWith()
+    .endsWith()
+Extração de Caracteres
+    .charAt()
