@@ -50,36 +50,62 @@ Durante o dia, implementei os seguintes exercícios para praticar a estrutura de
 
 ### ✍🏻 Manipulação de Strings em Java
 
-#### Concatenação de Strings
+#### 🧩 Concatenação de Strings
 - **Concatenação com `+`:**
   - Permite concatenar duas ou mais strings usando o operador `+`.
-- **Concatenação com .concat():**
+- **Concatenação com `.concat()`:**
   - Método da classe String para concatenar strings.
-    concatenação com .concat
-Comprimento de Strings
-    .length()
-Substring
-    .substring()
-Conversão de Caso
-    .toUpperCase()
-    .toLowerCase()
-Substituição de Caracteres
-    .replace()
-Divisão de Strings
-    .split()
-Remoção de Espaços
-    .trim()
-    .strip()
-    .stripLeading()
-    .stripTrailing() 
-Comparação de Strings
-    .equals()
-    .equalsIgnoreCase()
-    .compareTo()
-    .compareToIgnoreCase()
-Verificação de Substring
-    .contains()
-    .startWith()
-    .endsWith()
-Extração de Caracteres
-    .charAt()
+    concatenação com `.concat`
+#### 🧩 Comprimento de Strings
+- Método `.length()`:
+     - Retorna o comprimento da string.
+#### 🧩 Substring
+- **Método `.substring(int beginIndex)`:**
+    - Retorna uma nova string que é uma subtring da original, começando do índice especificado até o final.
+- **Método `.substring(int beginIndex, int endIndex)`:**
+    - Retorna uma nova string que é uma subtring da original, do índice beginIndex ao endIndex - 1.
+#### 🧩 Conversão de Caso
+- **Método `.toUpperCase()`:**
+    - Converte todos os caracteres da string para maiúsculas.
+- **Método `.toLowerCase()`:**
+    - Converte todos os caracteres da string para minúsculas.
+#### Substituição de Caracteres
+- **Método `.replace(char oldChar, char newChar)`:**
+    - Substitui todas as ocorrências de um caractere antigo por um novo caractere.
+- **Método `.replace(CharSequence target, CharSequence replacement)`:**
+    - Substitui todas as ocorrências de uma sequência de caracteres por outra.
+#### 🧩 Divisão de Strings
+- **Método `.split(String regex)`:**
+    - Divide a string em um array de strings com base em uma expressão regular.
+#### 🧩 Remoção de Espaços
+- **Método `.trim()`:**
+    - Remove espaços em branco no início e no final da string.
+- **Método `.strip()`:**
+    - Remove todos os espaços em branco no início e no final da string (Java 11+).
+- **Método `.stripLeading()`:**
+    - Remove espaços em branco no início da string (Java 11+).
+- **Método `.stripTrailing()`:**
+    - Remove espaços em branco no final da string (Java 11+).
+      
+#### 🧩 Comparação de Strings
+- **Método `.equals(Object anObject)`:**
+    - Compara duas strings para verificar se são iguais.
+- **Método `.equalsIgnoreCase(String anotherString)`:**
+    - Compara duas strings, ignorando diferenças de maiúsculas e minúsculas.
+- **Método `.compareTo(String anotherString)`:**
+    - Compara duas strings lexicograficamente.
+- **Método `.compareToIgnoreCase(String str)`:**
+    - Compara duas strings lexicograficamente, ignorando diferenças de maiúsculas e minúsculas.
+#### 🧩 Verificação de Substring
+- **Método `.contains(CharSequence s)`:**
+    - Verifica se a string contém a sequência especificada de caracteres.
+- **Método `.startsWith(String prefix)`:**
+    - Verifica se a string começa com o prefixo especificado.
+- **Método `.endsWith(String suffix)`:**
+    - Verifica se a string termina com o sufixo especificado.
+#### 🧩 Extração de Caracteres
+- **Método `.charAt(int index)`:**
+    - Retorna o caractere na posição especificada.
+##
+
+> Os exercícios foram úteis para consolidar meus conhecimentos sobre a estrutura de repetição `for` e Manipulações de strings em Java.
