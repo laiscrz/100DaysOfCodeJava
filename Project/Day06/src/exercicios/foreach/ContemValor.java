@@ -1,4 +1,4 @@
-package exercicios.listas;
+package exercicios.foreach;
 
 import java.util.ArrayList;
 import java.util.List;
