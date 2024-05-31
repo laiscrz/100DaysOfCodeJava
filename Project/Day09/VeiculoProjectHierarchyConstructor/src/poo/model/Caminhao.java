@@ -3,12 +3,23 @@ package poo.model;
 public class Caminhao extends Veiculo {
 
     private double capacidadeCarga;
-
+    
+    // construtor não parametrizado (vazio)
+    public Caminhao() {
+    	super();
+    }
+    
+    // construtor parametrizado (cheio)
+    public Caminhao(String marca, String modelo, int ano, double capacidadeCarga) {
+		super(marca, modelo, ano);
+		this.capacidadeCarga = capacidadeCarga;
+	}
+    
     public void setCapacidadeCarga(double capacidadeCarga) {
         this.capacidadeCarga = capacidadeCarga;
     }
 
-    public double getCapacidadeCarga() {
+	public double getCapacidadeCarga() {
         return capacidadeCarga;
     }
 

@@ -3,6 +3,17 @@ package poo.model;
 public class Moto extends Veiculo{
 
     private boolean temPartidaEletrica;
+    
+    // construtor não parametrizado (vazio)
+    public Moto() {
+    	super();
+    }
+    
+    // construtor parametrizado (cheio)
+    public Moto(String marca, String modelo, int ano, boolean temPartidaEletrica) {
+		super(marca, modelo, ano);
+		this.temPartidaEletrica = temPartidaEletrica;
+	}
 
 	public void setTemPartidaEletrica(boolean temPartidaEletrica) {
 		this.temPartidaEletrica = temPartidaEletrica;

@@ -3,12 +3,23 @@ package poo.model;
 public class Carro extends Veiculo {
 
     private int numeroPortas;
+    
+    // construtor não parametrizado (vazio)
+    public Carro() {
+    	super();
+    }
+    
+    // construtor parametrizado (cheio)
+    public Carro(String marca, String modelo, int ano, int numeroPortas) {
+  		super(marca, modelo, ano);
+  		this.numeroPortas = numeroPortas;
+  	}
 
     public void setNumeroPortas(int numeroPortas) {
         this.numeroPortas = numeroPortas;
     }
 
-    public int getNumeroPortas() {
+	public int getNumeroPortas() {
         return numeroPortas;
     }
 

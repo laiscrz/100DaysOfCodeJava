@@ -5,8 +5,20 @@ public class Veiculo {
     private String marca;
     private String modelo;
     private int ano;
+
+    // construtor não parametrizado (vazio)
+    public Veiculo(){
+
+    }
+
+    // construtor parametrizado (cheio)
+    public Veiculo(String marca, String modelo, int ano){
+        this.marca = marca;
+        this.modelo = modelo;
+        this.ano = ano;
+    }
     
-    //get e set
+	//get e set
     public void setMarca(String marca) {
         this.marca = marca;
     }
