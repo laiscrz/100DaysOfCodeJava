@@ -1,4 +1,4 @@
-# 📝 Dia 8: ntrodução à Programação Orientada a Objetos (POO) em Java - Conceitos: Classes, Métodos, Objetos e Encapsulamento
+# 📝 Dia 8: Introdução à Programação Orientada a Objetos (POO) em Java - Conceitos: Classes, Métodos, Objetos e Encapsulamento
 
 No oitavo dia do desafio, foquei em estudar Classes, Métodos, Objetos e Encapsulamento derivados de POO.
 
