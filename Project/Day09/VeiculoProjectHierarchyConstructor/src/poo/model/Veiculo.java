@@ -40,7 +40,7 @@ public class Veiculo {
         System.out.println("O veiculo está freiando.");
     }
 
-    public exibirInformacoes(){
+    public void exibirInformacoes(){
         System.out.println("Marca: " + marca);
         System.out.println("Modelo: " + modelo);
         System.out.println("Ano de Compra: " + ano);
