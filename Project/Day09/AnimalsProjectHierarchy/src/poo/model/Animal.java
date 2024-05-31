@@ -44,11 +44,11 @@ public class Animal {
 	}
 
 	// metodos da classe
-	public void emitirSom(){
+	public void emitirSom() {
 		System.out.println("Som do animal");
 	}
 
-	public void mostrarInformacoes(){
+	public void mostrarInformacoes() {
 		System.out.println("Nome: " + nome);
 		System.out.println("Idade: " + idade);
 		System.out.println("Peso: " + peso);

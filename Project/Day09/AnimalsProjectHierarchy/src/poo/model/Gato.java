@@ -36,5 +36,5 @@ public class Gato extends Animal {
         System.out.println("Raça: " + raca);
         System.out.println("Pelagem: " + pelagem);
     }
-    
+
 }
