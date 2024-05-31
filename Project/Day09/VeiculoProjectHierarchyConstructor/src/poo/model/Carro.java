@@ -25,12 +25,12 @@ public class Carro extends Veiculo {
 
     @Override
     public void acelerar() {
-        System.out.println("O carro está acelerando");
+        System.out.println("O carro está acelerando.");
     }
 
     @Override
     public void frear() {
-        System.out.println("O carro esta freando");
+        System.out.println("O carro esta freando.");
     }
 
     // metodo exclusivo da class carro

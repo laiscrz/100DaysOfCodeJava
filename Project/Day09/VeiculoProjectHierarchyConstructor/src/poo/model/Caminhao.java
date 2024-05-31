@@ -25,12 +25,12 @@ public class Caminhao extends Veiculo {
 
     @Override
     public void acelerar() {
-        System.out.println("O caminhão está acelerando");
+        System.out.println("O caminhão está acelerando.");
     }
 
     @Override
     public void frear() {
-        System.out.println("O caminhão está freando");
+        System.out.println("O caminhão está freando.");
     }
 
     // metodo exclusivo da classe
