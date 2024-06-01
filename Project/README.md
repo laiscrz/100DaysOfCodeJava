@@ -15,7 +15,7 @@ Aqui está o roteiro detalhado do desafio:
 |   6   | Trabalhando com Listas & Estrutura de Repetição com `foreach` | No sexto dia, vamos aprender sobre como trabalhar com listas em Java, incluindo manipular os elementos. Além disso, exploraremos a estrutura de repetição `foreach` em Java, que é útil para iterar sobre elementos de uma coleção, como listas. | [Day06](./Day06) |
 |   7   | Trabalhando com Arrays e Estrutura `switch`      | No sétimo dia, focamos em estudar e praticar Arrays e a estrutura `switch` em Java. Aprendemos como declarar, inicializar e manipular arrays, e também como utilizar a estrutura `switch` para controle de fluxo com base em diferentes casos. | [Day07](./Day07)  |
 |   8   | Introdução à Programação Orientada a Objetos (POO) em Java - Conceitos: Classes, Métodos, Objetos e Encapsulamento | No oitavo dia do desafio, dediquei-me ao estudo de importantes conceitos de Programação Orientada a Objetos (POO) em Java, concentrando-me em Classes, Métodos, Objetos e Encapsulamento. | [Day08](./Day08)  |
-
+|   9   | Conceitos de Programação Orientada a Objetos em Java - Herança, Construtores e Anotação `@Override` | No nono dia, foquei em estudar Herança, Construtores e Anotação `@Override` derivados de POO. | [Day09](./Day09)  |
 
 ##
 
