@@ -81,7 +81,7 @@ Este projeto ilustra uma hierarquia de classes para animais, mostrando como atri
     - Encapsulamento
     - Métodos do tipo Void (Anotação `@Override`)
     - Herança
-> Acesse o projeto em: [AnimalsProjectHierarchy](Project/Day09/AnimalsProjectHierarchy)
+> Acesse o projeto em: [AnimalsProjectHierarchy](AnimalsProjectHierarchy)
 <p align="center"><img src="assets/diagramProjectAnimals.png" alt="Diagrama de Classes" width="256" height="256" ></p>
 
 - ***Projeto sobre Veiculo:***
@@ -91,7 +91,7 @@ Neste projeto, a hierarquia de classes de veículos demonstra como diferentes ti
     - Métodos do tipo Void (Anotação `@Override`)
     - Herança
     - Métodos Construtores
-> Acesse o projeto em: [VeiculoProjectHierarchyConstructor](Project/Day09/VeiculoProjectHierarchyConstructor)
+> Acesse o projeto em: [VeiculoProjectHierarchyConstructor](VeiculoProjectHierarchyConstructor)
 <p align="center"><img src="assets/diagramProjectAnimals.png" alt="Diagrama de Classes" width="256" height="256" ></p>
 
 ##
