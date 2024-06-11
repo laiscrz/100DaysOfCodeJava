@@ -73,6 +73,40 @@ public class Circulo {
     }
 }
 ```
+### 📊 Diagrama de Classes dos Projetos    
+- **🧩Projeto sobre Biblioteca:**
+
+Este projeto ilustra uma hierarquia de classes para biblioteca, mostrando como atributos e métodos podem ser herdados de uma superclasse. Neste projeto abordamos:
+    - Implementação de Classes (superclasses e subclasses)
+    - Encapsulamento
+    - Métodos do tipo Void
+    - Herança
+    - Modificador de Acesso `protected`
+> Acesse o projeto em: [ProjectBibliotecaProtected](ProjectBibliotecaProtected)
+<p align="center"><img src="doc/diagramBiblio.png" alt="Diagrama de Classes" width="500" height="256" ></p>
+
+- **🧩Projeto sobre Formas Geométricas:**
+
+Este projeto ilustra uma hierarquia de classes para formas geométricas, mostrando como atributos e métodos podem ser herdados de uma superclasse. Neste projeto abordamos:
+    - Implementação de Classes (superclasses e subclasses)
+    - Encapsulamento
+    - Métodos do tipo Void
+    - Herança
+    - Modificador de Acesso `protected`
+    - Classe `Abstract`
+> Acesse o projeto em: [ProjectFormasGeoAbstract](ProjectFormasGeoAbstract)
+<p align="center"><img src="doc/diagramForma.png" alt="Diagrama de Classes" width="500" height="320" ></p>
+
+- **🧩Projeto sobre Funcionário:**
+
+Este projeto ilustra uma hierarquia de classes para funcionario, mostrando como atributos e métodos podem ser herdados de uma superclasse. Neste projeto abordamos:
+    - Implementação de Classes (superclasses e subclasses)
+    - Encapsulamento
+    - Métodos do tipo Void
+    - Herança
+    - Palavra-chave `final`
+> Acesse o projeto em: [ProjectFuncionarioFinal](ProjectFuncionarioFinal)
+<p align="center"><img src="doc/diagramFunc.png" alt="Diagrama de Classes" width="320" height="320" ></p>
 
 ##
 
