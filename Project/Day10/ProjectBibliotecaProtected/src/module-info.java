@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pclal
+ *
+ */
+module ProjectBibliotecaProtected {
+}
