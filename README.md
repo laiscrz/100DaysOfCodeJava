@@ -76,6 +76,22 @@ As seguintes ferramentas foram usadas neste projeto:
 3. Explore as pastas correspondentes a cada dia do desafio para ver detalhes sobre as atividades realizadas em cada dia.
 4. Fique à vontade para abrir o projeto em sua IDE preferida e experimentar o código por conta própria!
 
---------------------------------------------------------------------------------------------------
+## 👩🏻‍💻 Desenvolvedora
+<table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/laiscrz"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/laiscrz">
+        <span><b>Lais Cruz</b></span>
+      </a>
+      <br>
+      <span>Software Developer</span>
+    </td>
+  </tr>
+</table>
+
+--------------------------------------------------------------------------------
 
 > Esse projeto tem o objetivo de não apenas fortalecer minhas habilidades em Java, mas também cultivar uma disciplina diária de aprendizado e prática.
