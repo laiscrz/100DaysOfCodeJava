@@ -91,12 +91,23 @@ Este projeto foi desenvolvido por :
           <span><b>Lais Cruz</b></span>
         </a>
         <br>
-        <span>Software Developer</span>
+        <span>Desenvolvedora de Software</span>
+        <br>
+         <div align="center">
+          <a href="https://github.com/laiscrz" style="display: inline-block; margin-right: 10px; text-decoration: none;">
+            <img src="https://img.icons8.com/ios-filled/30/FF00F6/github.png">
+          </a>
+          <a href="https://www.linkedin.com/in/laiscrz/" style="display: inline-block; margin-right: 10px; text-decoration: none;">
+            <img src="https://img.icons8.com/ios-filled/30/FF00F6/linkedin.png">
+          </a>
+          <a href="mailto:cmp.1a.lais.albino2003@gmail.com" style="display: inline-block; text-decoration: none;">
+            <img src="https://img.icons8.com/ios-filled/30/FF00F6/email.png">
+          </a>
+        </div>
       </td>
     </tr>
   </table>
 </div>
-
 
 --------------------------------------------------------------------------------
 
