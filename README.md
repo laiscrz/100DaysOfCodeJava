@@ -77,6 +77,9 @@ As seguintes ferramentas foram usadas neste projeto:
 4. Fique à vontade para abrir o projeto em sua IDE preferida e experimentar o código por conta própria!
 
 ## 👩🏻‍💻 Desenvolvedora
+
+Este projeto foi desenvolvido por :
+
 <div align="center">
   <table>
     <tr>
