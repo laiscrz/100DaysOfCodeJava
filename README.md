@@ -77,20 +77,23 @@ As seguintes ferramentas foram usadas neste projeto:
 4. Fique à vontade para abrir o projeto em sua IDE preferida e experimentar o código por conta própria!
 
 ## 👩🏻‍💻 Desenvolvedora
-<table>
-  <tr>
-    <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/laiscrz"/>
-    </td>
-    <td align="left">
-      <a href="https://github.com/laiscrz">
-        <span><b>Lais Cruz</b></span>
-      </a>
-      <br>
-      <span>Software Developer</span>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="80px" align="center" src="https://avatars.githubusercontent.com/laiscrz"/>
+      </td>
+      <td align="left">
+        <a href="https://github.com/laiscrz">
+          <span><b>Lais Cruz</b></span>
+        </a>
+        <br>
+        <span>Software Developer</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 --------------------------------------------------------------------------------
 
